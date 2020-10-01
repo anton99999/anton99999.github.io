@@ -1,6 +1,6 @@
 form {
     text-align: center;
-    margin-top: 50%;
+    margin-top: 5%;
 }
 
 input {
@@ -20,10 +20,12 @@ body {
 
 p {
     text-align: center;
-    font-size: 32px;
+    font-size: 40px;
     color: rgb(80, 80, 80);
     border: solid 1px rgb(80, 80, 80);
     border-radius: 15px;
     background-color: seashell;
+    font: bold;
+    margin-top: 50%;
     
 }
