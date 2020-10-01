@@ -1,7 +1,20 @@
+.zagolovok {
+    text-align: center;
+    font-size: 40px;
+    border: solid 3px rgb(80, 80, 80);
+    border-radius: 15px;
+    background-color: seashell;
+    font: large;
+    margin-top: 50%;
+    
+}
+
 form {
     text-align: center;
     margin-top: 5%;
 }
+
+
 
 input {
     background-color: rgb(63, 63, 63);
@@ -18,13 +31,3 @@ body {
     
 }
 
-p {
-    text-align: center;
-    font-size: 40px;
-    border: solid 3px rgb(80, 80, 80);
-    border-radius: 15px;
-    background-color: seashell;
-    font: large;
-    margin-top: 50%;
-    
-}
