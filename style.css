@@ -18,12 +18,15 @@ border-radius: 15px;
     text-align: left;
     margin-top: 1%;
     display: inline;
+    
 }
 
 #right {
     text-align: right;
     margin-top: 1%;
+    margin-left: 45%;
     display: inline;
+    
 }
 
 
@@ -31,6 +34,7 @@ input {
     color: rgb(255, 255, 255);
     border-radius: 50px;
     padding: 40px;
+    font-size: 45px;
     }
 
 body {
