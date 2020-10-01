@@ -1,30 +1,15 @@
-button
- {
-     background-color: rgb(63, 63, 63);
-     color: rgb(255, 255, 255);
-     margin-left: 100px;
-     margin-top: 100px;
-     border-radius: 50px;
-     font-size: 42px;
-     padding: 20px;
+input {
+    background-color: rgb(63, 63, 63);
+    color: rgb(255, 255, 255);
+    margin-left: 350px;
+    margin-top: 100px;
+    border-radius: 50px;
+    font-size: 42px;
+    padding: 20px;
 }
+
 body {
     background-image:url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/991980/b3378114f1a3bc7e9e8db3dd20962952218443cd.jpg);
     background-size: 100%;
     
-}
-
-#TEXT {
-    font-size: 42px;
-    margin-left: 35%;
-    margin-top: 500px;
-    color: cornsilk;
-    text-align: center;
-}
-
-input {
-    text-align: center;
-    margin-left: 45%;
-    margin-top: 80%;
-    padding: 15px;
 }
