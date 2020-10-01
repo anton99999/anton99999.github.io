@@ -1,3 +1,8 @@
+#header {
+width: 100%; 
+size: 1500px;   
+}
+
 .zagolovok {
     text-align: center;
     font-size: 40px;
@@ -30,4 +35,5 @@ body {
     background-size: 130%;
     
 }
+
 
