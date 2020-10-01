@@ -6,11 +6,12 @@ border-radius: 15px;
 .zagolovok {
     text-align: center;
     font-size: 40px;
-    border: solid 3px rgb(80, 80, 80);
+    border: solid 3px #ff2c2c;
     border-radius: 15px;
     background-color: rgb(255, 255, 255);
     font: large;
     margin-top: 1%;
+    color: #ff2c2c;
     
 }
 
