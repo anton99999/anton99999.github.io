@@ -17,3 +17,11 @@ body {
     background-size: 130%;
     
 }
+
+p {
+    text-align: center;
+    font-size: 32px;
+    color: rgb(80, 80, 80);
+    border: 5px black;
+    
+}
