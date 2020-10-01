@@ -1,6 +1,7 @@
 #header {
 width: 100%;
 border-radius: 15px;
+align-items: center;
 }
 
 .zagolovok {
@@ -53,7 +54,7 @@ input {
     left: 50; bottom: 0; /* Левый нижний угол */
     padding: 10px; /* Поля вокруг текста */
     color: #ff2c2c; /* Цвет текста */
-    text-align: center;
+    align-items: center;
 }
 
 
