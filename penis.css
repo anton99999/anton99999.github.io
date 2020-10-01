@@ -1,12 +1,10 @@
 input {
     background-color: rgb(63, 63, 63);
     color: rgb(255, 255, 255);
-    margin-left: auto;
-    margin-top: auto;
+    margin: 0 auto;
     border-radius: 50px;
     font-size: 42px;
     padding: 20px;
-    
     }
 
 body {
