@@ -17,11 +17,13 @@ border-radius: 15px;
 #left {
     text-align: left;
     margin-top: 1%;
+    display: inline;
 }
 
 #right {
     text-align: right;
     margin-top: 1%;
+    display: inline;
 }
 
 
