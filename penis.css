@@ -22,6 +22,6 @@ p {
     text-align: center;
     font-size: 32px;
     color: rgb(80, 80, 80);
-    border: 5px black;
+    border: solid 1px rgb(80, 80, 80);
     
 }
