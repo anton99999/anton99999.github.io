@@ -14,11 +14,17 @@ border-radius: 15px;
     
 }
 
-form {
-    text-align: center;
-    margin-top: 5%;
+#left {
+    text-align: left;
+    margin-top: 1%;
+    width: 10%;
 }
 
+#right {
+    text-align: right;
+    margin-top: 1%;
+    width: 10%;
+}
 
 
 input {
