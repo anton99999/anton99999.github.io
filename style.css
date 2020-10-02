@@ -15,6 +15,7 @@ align-items: center;}
 
 #table {
     margin: 100px;
+    border: 2px solid black;
 }
 
 #admin {
@@ -24,6 +25,10 @@ align-items: center;}
 
 #yt {
     background-color: rgb(255, 80, 80);
+}
+
+#insta {
+    color: rgb(80, 80, 80)
 }
 
 input {
