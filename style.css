@@ -13,18 +13,14 @@ align-items: center;}
     margin-top: 1%;
     color: #ff2c2c;}
 
-.left {
-    margin-top: 1%;
-    margin-left: 50px;
-    color: #ff2c2c;
-    background-color: rgb(255, 255, 255);}
+#table {
+    margin: 100px;
+}
 
-.right {
-    margin-top: 1%;
-    margin-left: 45%;
-    color: rgb(255, 255, 255);
-    background-color: #ff2c2c;}
-
+#admin {
+    background-color: rgb(80, 220, 255); 
+    color: rgb(80, 80, 80);
+}
 
 input {
     color: rgb(255, 255, 255);
@@ -32,21 +28,14 @@ input {
     padding: 40px;
     font-size: 45px;}
 
-#downnn {
-    position: fixed;
+.media {
+    margin-top: 400px;}
+
+ #downnn {
+     position: fixed;
     left: 50; bottom: 0; /* Левый нижний угол */
     padding: 10px; /* Поля вокруг текста */
     color: #ff2c2c; /* Цвет текста */
     align-items: center;}
-
-.center {
-    text-align: center;
-    margin-top: 1%;
-    margin-left: 45%;
-    display: inline;}
-
-.media {
-    margin-top: 400px;}
-    
 
 
