@@ -22,6 +22,10 @@ align-items: center;}
     color: rgb(80, 80, 80);
 }
 
+#yt {
+    background-color: rgb(255, 80, 80);
+}
+
 input {
     color: rgb(255, 255, 255);
     border-radius: 50px;
