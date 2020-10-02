@@ -1,8 +1,7 @@
 #header {
 width: 100%;
 border-radius: 15px;
-align-items: center;
-}
+align-items: center;}
 
 .zagolovok {
     text-align: center;
@@ -12,58 +11,42 @@ align-items: center;
     background-color: rgb(255, 255, 255);
     font: large;
     margin-top: 1%;
-    color: #ff2c2c;
-    
-}
+    color: #ff2c2c;}
 
-#left {
-    text-align: left;
+.left {
     margin-top: 1%;
-    display: inline;
-    
-}
+    ma
+    color: #ff2c2c;
+    background-color: rgb(255, 255, 255);}
 
-#right {
-    text-align: right;
+.right {
     margin-top: 1%;
     margin-left: 45%;
-    display: inline;
-    
-}
+    color: rgb(255, 255, 255);
+    background-color: #ff2c2c;}
 
 
 input {
     color: rgb(255, 255, 255);
     border-radius: 50px;
     padding: 40px;
-    font-size: 45px;
-    }
-
-#left1 {
-    color: #ff2c2c;
-    background-color: rgb(255, 255, 255);
-}
-
-#right1 {
-    color: rgb(255, 255, 255);
-    background-color: #ff2c2c;
-}
+    font-size: 45px;}
 
 #downnn {
     position: fixed;
     left: 50; bottom: 0; /* Левый нижний угол */
     padding: 10px; /* Поля вокруг текста */
     color: #ff2c2c; /* Цвет текста */
-    align-items: center;
-}
+    align-items: center;}
 
-#center {
+.center {
     text-align: center;
     margin-top: 1%;
     margin-left: 45%;
-    display: inline;
-}
+    display: inline;}
 
+.media {
+    margin-top: 400px;}
     
 
 
